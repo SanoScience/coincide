@@ -9,7 +9,7 @@ conda create -n coincideenv pip
 
 conda activate coincideenv
 
-pip install -r requirments.txt
+pip install -r requirements.txt
 ```
 
 
